@@ -6,7 +6,7 @@
 + [練習專區](https://github.com/yuancc12/Web-Retrieval-and-Mining/blob/main/README.md#%E7%B7%B4%E7%BF%92%E5%B0%88%E5%8D%80)
 + [作業專區](https://github.com/yuancc12/Web-Retrieval-and-Mining/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E5%B0%88%E5%8D%80)
 + [課堂PPT](https://github.com/yuancc12/Web-Retrieval-and-Mining/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
-+ [課本]
++ [課本](https://github.com/yuancc12/Web-Retrieval-and-Mining/blob/main/README.md#%E8%AA%B2%E6%9C%AC)
 
 # 簡介
 **授課教師:鄭卜壬 (PJ Cheng)**

@@ -6,6 +6,7 @@
 + [練習專區](https://github.com/yuancc12/Web-Retrieval-and-Mining/blob/main/README.md#%E7%B7%B4%E7%BF%92%E5%B0%88%E5%8D%80)
 + [作業專區](https://github.com/yuancc12/Web-Retrieval-and-Mining/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E5%B0%88%E5%8D%80)
 + [課堂PPT](https://github.com/yuancc12/Web-Retrieval-and-Mining/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
++ [課本]
 
 # 簡介
 **授課教師:鄭卜壬 (PJ Cheng)**
@@ -28,3 +29,10 @@
 # 作業專區
 # 課堂PPT
 + [第1周](https://www.csie.ntu.edu.tw/%7Epjcheng/course/wm2025/overview_2025.pdf)
++ [第二周-1](https://www.csie.ntu.edu.tw/~pjcheng/course/wm2025/introir_2025.pdf)
++ [第二周-2](https://www.csie.ntu.edu.tw/~pjcheng/course/wm2025/irsys_2025.pdf)
++ [第二周-3](https://www.csie.ntu.edu.tw/~pjcheng/course/wm2025/indexing_2025.pdf)
+# 課本
++ [Chp1.1-1.3](https://nlp.stanford.edu/IR-book/pdf/01bool.pdf)
++ [Chp2.2-2.4](https://nlp.stanford.edu/IR-book/pdf/02voc.pdf)
+

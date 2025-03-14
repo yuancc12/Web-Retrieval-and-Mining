@@ -27,11 +27,14 @@
 ***
 # 練習專區
 # 作業專區
+ + [HW1](https://www.csie.ntu.edu.tw/%7Epjcheng/course/wm2025/Assignment1.pdf)
+ + [HW2](https://www.csie.ntu.edu.tw/%7Epjcheng/course/wm2025/Assignment2.pdf)
 # 課堂PPT
 + [An Overview of Web Retrieval and Mining](https://www.csie.ntu.edu.tw/%7Epjcheng/course/wm2025/overview_2025.pdf)
 + [Introduction to Information Retrieval](https://www.csie.ntu.edu.tw/~pjcheng/course/wm2025/introir_2025.pdf)
 + [Overview of an IR System](https://www.csie.ntu.edu.tw/~pjcheng/course/wm2025/irsys_2025.pdf)
 + [First Glance at Indexing in IR](https://www.csie.ntu.edu.tw/~pjcheng/course/wm2025/indexing_2025.pdf)
++ [VSM and SVD](csie.ntu.edu.tw/~pjcheng/course/wm2025/vsmodel_2025.pdf)
 # 課本
 + [Chp1.1-1.3](https://nlp.stanford.edu/IR-book/pdf/01bool.pdf)
 + [Chp2.2-2.4](https://nlp.stanford.edu/IR-book/pdf/02voc.pdf)

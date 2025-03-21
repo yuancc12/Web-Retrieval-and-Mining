@@ -35,7 +35,7 @@
 + [Introduction to Information Retrieval](https://www.csie.ntu.edu.tw/~pjcheng/course/wm2025/introir_2025.pdf)
 + [Overview of an IR System](https://www.csie.ntu.edu.tw/~pjcheng/course/wm2025/irsys_2025.pdf)
 + [First Glance at Indexing in IR](https://www.csie.ntu.edu.tw/~pjcheng/course/wm2025/indexing_2025.pdf)
-+ [VSM and SVD](csie.ntu.edu.tw/~pjcheng/course/wm2025/vsmodel_2025.pdf)
++ [VSM and SVD](https://www.csie.ntu.edu.tw/%7Epjcheng/course/wm2025/vsmodel_2025.pdf)
 + [Language Model](https://www.csie.ntu.edu.tw/%7Epjcheng/course/wm2025/langmodel_2025.pdf)
 + [Probabilistic Model](https://www.csie.ntu.edu.tw/%7Epjcheng/course/wm2025/probmodel_2025.pdf)
 # 課本
